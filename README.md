@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">A passionate Mobile app and Machine Learning developer from Sarajevo, B&H, Europe.</h3>
+<h3 align="center">A passionate Mobile app and Machine Learning Developer from Sarajevo, Bosnia and Herzegovina and Stuttgart, Germany in Europe.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilaldrndo&label=Profile%20views&color=0e75b6&style=flat" alt="bilaldrndo" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **Node.js, SwiftUI, PostgreSQL**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@bilaldrndo)
+- 📝 I regularly write articles on: [Medium](https://medium.com/@bilaldrndo)
 
 - 💬 Ask me about: **Flutter, Swift, Python/Flask/Tensorflow, MongoDB**
 
