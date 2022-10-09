@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on: [Medium](https://medium.com/@bilaldrndo)
 
-- 💬 Ask me about: **Flutter, Swift, Python/Flask/Tensorflow, MongoDB**
+- 💬 Ask me about: **Flutter, Swift, Python/Flask/Tensorflow, MongoDB, Firebase**
 
 - 📫 How to reach me: **bilal.drndo@softline.ba**
 
