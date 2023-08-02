@@ -9,13 +9,13 @@
 
 - 📝 I regularly write articles on: [Medium](https://medium.com/@bilaldrndo)
 
-- 💬 Ask me about: **Mobile Dev: Flutter & Swift, ML: Tensorflow 2.0 & Python 3.0, APIs: Flask & PHP, Database: MongoDB, MySQL**
+- 💬 Ask me about: **Mobile Dev: Flutter & Swift, ML: Tensorflow 2.0 & Python 3.0, APIs: Flask & PHP, Database: MongoDB & MySQL**
 
 - 📫 How to reach me: **drndo.bilal@gmail.com**
 
 - 📍 I am located in: **Sarajevo, Bosnia and Herzegovina**
 
-- ⚡ Fun fact: **I like swimming, playing tennis and playing the piano!**
+- ⚡ Fun fact: **I like playing tennis and playing the piano!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
