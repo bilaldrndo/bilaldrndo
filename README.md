@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **drndo.bilal@gmail.com**
 
-- 📍 I am located in: **Sarajevo, Bosnia and Herzegovina**
+- 📍 I'm currently located in: **Sarajevo, Bosnia and Herzegovina**
 
 - ⚡ Fun fact: **I like playing tennis and playing the piano!**
 
