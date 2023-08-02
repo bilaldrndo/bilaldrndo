@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on: [Medium](https://medium.com/@bilaldrndo)
 
-- 💬 Ask me about: **Mobile Dev: Flutter & Swift, ML: Tensorflow 2.0 & Python 3.0, APIs: Flask & PHP, Database: MongoDB & MySQL**
+- 💬 Ask me about **Mobile Dev: Flutter & Swift, ML: Tensorflow 2.0 & Python 3.0, APIs: Flask & PHP, Database: MongoDB & MySQL**
 
 - 📫 How to reach me: **drndo.bilal@gmail.com**
 
