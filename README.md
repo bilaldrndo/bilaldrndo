@@ -9,9 +9,9 @@
 
 - 📝 I regularly write articles on: [Medium](https://medium.com/@bilaldrndo)
 
-- 💬 Ask me about: **Flutter, Swift, Python/Flask/Tensorflow, MongoDB, Firebase**
+- 💬 Ask me about: **Mobile Dev: Flutter & Swift, ML: Tensorflow 2.0 & Python 3.0, APIs: Flask & PHP, Database: MongoDB, MySQL**
 
-- 📫 How to reach me: **bilal.drndo@softline.ba**
+- 📫 How to reach me: **drndo.bilal@gmail.com**
 
 - 📍 I am located in: **Sarajevo, Bosnia and Herzegovina**
 
