@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">A passionate Mobile App and Machine Learning Developer from Sarajevo, Bosnia and Herzegovina and Stuttgart, Germany in Europe breaking into Product Management.</h3>
+<h3 align="center">A passionate Mobile App and Machine Learning Developer breaking into Product Management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilaldrndo&label=Profile%20views&color=0e75b6&style=flat" alt="bilaldrndo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bilaldrndo" target="blank"><img src="https://img.shields.io/twitter/follow/bilaldrndo?logo=twitter&style=for-the-badge" alt="bilaldrndo" /></a> </p>
 
-- 🔭 I’m currently working on: [Disby App](www.disbyapp.com)
-
-- 🌱 I’m currently learning: **Node.js, SwiftUI, PostgreSQL**
+- 🌱 I’m currently working on improving my **UX Design & Analytics Skills**.
 
 - 📝 I regularly write articles on: [Medium](https://medium.com/@bilaldrndo)
 
 - 💬 Ask me about: **Flutter, Swift, Python/Flask/Tensorflow, MongoDB, Firebase**
 
 - 📫 How to reach me: **bilal.drndo@softline.ba**
+
+- 📍 I am located in: **Sarajevo, Bosnia and Herzegovina**
 
 - ⚡ Fun fact: **I like swimming, playing tennis and playing the piano!**
 
