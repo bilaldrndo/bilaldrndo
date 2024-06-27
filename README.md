@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">PM Intern @ Ministry of Programming</h3>
+<h3 align="center">Currently working as a PM Intern @ Ministry of Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilaldrndo&label=Profile%20views&color=0e75b6&style=flat" alt="bilaldrndo" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on: [Medium](https://medium.com/@bilaldrndo)
 
-- 💬 Ask me about **Product & Project Management & Mobile Development**
+- 💬 Ask me about **Product/Project Management & Mobile App Development**
 
 - 📫 How to reach me: **drndo.bilal@gmail.com**
 
