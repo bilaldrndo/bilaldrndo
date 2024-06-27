@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">A passionate Mobile App and Machine Learning Developer breaking into Product Management.</h3>
+<h3 align="center">PM Intern @ Ministry of Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilaldrndo&label=Profile%20views&color=0e75b6&style=flat" alt="bilaldrndo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bilaldrndo" target="blank"><img src="https://img.shields.io/twitter/follow/bilaldrndo?logo=twitter&style=for-the-badge" alt="bilaldrndo" /></a> </p>
 
-- 🌱 I’m currently working on improving my **UX Design & Analytics Skills**.
+- 🌱 I’m currently working on improving my **PM Skills**.
 
 - 📝 I regularly write articles on: [Medium](https://medium.com/@bilaldrndo)
 
-- 💬 Ask me about **Mobile Dev: Flutter & Swift, ML: Tensorflow 2.0 & Python 3.0, APIs: Flask & PHP, Database: MongoDB & MySQL**
+- 💬 Ask me about **Product & Project Management & Mobile Development**
 
 - 📫 How to reach me: **drndo.bilal@gmail.com**
 
