@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">Currently working as a PM Intern @ Ministry of Programming</h3>
+<h3 align="center">On the lookout for the next Product/Project Management Role</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilaldrndo&label=Profile%20views&color=0e75b6&style=flat" alt="bilaldrndo" /> </p>
 
